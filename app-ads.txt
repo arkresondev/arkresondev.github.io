@@ -38,3 +38,5 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 facebook.com, 858549243451669, DIRECT, c3e20eee3f780d68
 google.com, pub-1561910417533641, DIRECT, f08c47fec0942fa0
+pangleglobal.com, 5033451, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
