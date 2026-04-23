@@ -1782,3 +1782,4 @@ rubiconproject.com, 27538, RESELLER, 0bfd66d529a55807
 playdigo.com, 2091, RESELLER, 92011346d63d3c30
 adnimation.com, 20250084, RESELLER
 pubnative.net, 1017792, RESELLER, d641df8625486a7b
+vungle.com, 69e9e25f63ed3b5eefe7e552, DIRECT, c107d686becd2d77
