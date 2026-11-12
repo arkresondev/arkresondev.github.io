@@ -2554,3 +2554,8 @@ xandr.com,15840,RESELLER,f5ab79cb980f11d1
 yieldlab.net,15465081,RESELLER
 zmaticoo.com,5135199,RESELLER
 zmaticoo.com,5135535,RESELLER
+
+bidease.com, bidease_seller_26, RESELLER
+bigo.sg, qyfoptvec9, RESELLER
+taurusx.com, 70119, RESELLER
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
